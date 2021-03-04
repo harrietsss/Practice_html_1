@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Travel to Mars</title>
+</head>
+<body>
+  <h1>Space X Journey</h1>
+    <img src="https://y.zdmimg.com/201903/11/5c864049a3fca6737.jpg_a200.jpg">
+    <a href='https://www.spacex.com/'>Space X offical website</a>
+    <h2>Starship</h2>
+      <h3>Starship SN8</h3>
+        <h4>Mission Description</h4>
+        <p>SN8...</p>
+          <b>Bold text</b>
+          <i>Italic text</i><br>
+          <em>Emphasized text</em>
+          <sub>Subscript text</sub>
+          <sup>Superscript text</sup><br>
+        <h4>Launch Live</h4><br>
+      <h3>Starship SN9</h4>
+        <h4>Mission Description</h4>
+        <h4>Launch Live</h4><br>
+      <h3>Starship SN10</h5>
+        <h4>Mission Description</h4>
+        <h4>Launch Live</h4>
+</body>
+</html>
