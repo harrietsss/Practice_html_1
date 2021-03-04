@@ -11,12 +11,10 @@
     <h2>Starship</h2>
       <h3>Starship SN8</h3>
         <h4>Mission Description</h4>
-        <p>SN8...</p>
-          <b>Bold text</b>
-          <i>Italic text</i><br>
-          <em>Emphasized text</em>
-          <sub>Subscript text</sub>
-          <sup>Superscript text</sup><br>
+        <p>As early as <b>Wednesday, March 3</b>,the SpaceX team will attempt a <i>high-altitude flight</i> test of Starship serial
+           number 10 (SN10) <sup>our third high-altitude suborbital flight test of a Starship prototype from SpaceX’s site in Cameron County, Texas</sup>.
+           Similar to the high-altitude flight tests of Starship SN8 and SN9, SN10 will be powered through ascent by <em>three Raptor engines</em>, each shutting
+           down in sequence prior to the vehicle reaching apogee <sub>approximately 10 km in altitude</sub>.</p>
         <h4>Launch Live</h4><br>
       <h3>Starship SN9</h4>
         <h4>Mission Description</h4>
