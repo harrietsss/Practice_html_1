@@ -4,21 +4,22 @@
   <meta charset="utf-8">
   <title>Travel to Mars</title>
 </head>
-<body>
-  <h1>Space X Journey</h1>
-    <img src="https://y.zdmimg.com/201903/11/5c864049a3fca6737.jpg_a200.jpg">
-    <a href='https://www.spacex.com/'>Space X offical website</a>
-      <h2>Starship</h2>
-        <h3>Starship SN8</h3>
-          <h4>Mission Description</h4>
-          <h4>Launch Live</h4><br>
-        <h3>Starship SN9</h4>
-          <h4>Mission Description</h4>
-          <h4>Launch Live</h4><br>
-        <h3>Starship SN10</h4>
-          <h4>Mission Description</h4>
-          <p>As early as <b>Wednesday, March 3</b>,the SpaceX team will attempt a <i>high-altitude flight</i> test of Starship serial
+<body style="background-color:black;">
+  <img src="spacex-logo.png">
+  <h1 style="background-color:lightskyblue;color:white">Space X Journey</h1>
+    <a href='https://www.spacex.com/'target="_blank">Space X offical website</a>
+      <h2 style="color:white;border-width:3px;border-color:lightskyblue;">Starship</h2>
+      <img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2148570913,3499936637&fm=26&gp=0.jpg">
+        <h3 style="color:white">Starship SN8</h3>
+          <h4 style="color:white">Mission Description</h4>
+          <h4 style="color:white">Launch Live</h4><br>
+        <h3 style="color:white">Starship SN9</h4>
+          <h4 style="color:white">Mission Description</h4>
+          <h4 style="color:white">Launch Live</h4><br>
+        <h3 style="color:white">Starship SN10</h4>
+          <h4 style="color:white">Mission Description</h4>
+          <p style="color:white">As early as <b>Wednesday, March 3</b>,the SpaceX team will attempt a <i>high-altitude flight</i> test of Starship serial
            number 10 (SN10) <sup>our third high-altitude suborbital flight test of a Starship prototype from SpaceX’s site in Cameron County, Texas</sup>.
            Similar to the high-altitude flight tests of Starship SN8 and SN9, SN10 will be powered through ascent by <em>three Raptor engines</em>, each shutting
            down in sequence prior to the vehicle reaching apogee <sub>approximately 10 km in altitude</sub>.</p>
-           <h4>Launch Live</h4><br>
+           <h4 style="color:white">Launch Live</h4><br>
